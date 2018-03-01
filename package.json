@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/phodal/moplay/issues"
   },
-  "homepage": "https://github.com/phodal/moplay#readme"
+  "homepage": "https://github.com/phodal/moplay#readme",
+  "dependencies": {
+    "puppeteer": "^1.1.1"
+  }
 }

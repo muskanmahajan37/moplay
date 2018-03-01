@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/profile",
+    "path0": "<a _ngcontent-c1=\"\" ng-reflect-router-link=\"/profile\" ng-reflect-router-link-active-options=\"[object Object]\" ng-reflect-router-link-active=\"router-link-active\" href=\"/profile\" class=\"router-link-active\"></a>",
+    "path1": "<nav _ngcontent-c1=\"\" class=\"navbar navbar-expand-lg navbar-light bg-light\"></nav>",
+    "url": "http://localhost:4200/profile"
+  }
+]
